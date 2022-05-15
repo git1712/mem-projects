@@ -1,5 +1,5 @@
 # mem-projects
-This is a real time messaging app. Read license before doing anything to the project code.
+This is a real time messaging app.
 ## To log in
 Go to login.html to login. Enter your username, email and password to start. The app will notify you when the username is taken or when the password is wrong.
 ## To Message
